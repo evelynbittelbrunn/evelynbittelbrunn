@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com back-end
 - 🌱 Aprendendo front-end
 - ✏️ Estudante de Engenharia de Software
-- 😄 Pronouns: ela/dela
+- 😄 Portfólio: https://evelynbittelbrunn.000webhostapp.com/
 
 ##
 
