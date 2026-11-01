@@ -1,8 +1,8 @@
 ### Oiê, eu sou a Evelyn Bittelbrunn 🌻
 
-- 🔭 Trabalhando com back-end
-- 🌱 Aprendendo front-end
-- ✏️ Estudante de Engenharia de Software
+- 🔭 Trabalhando como full stack
+- 🌱 Aprendendo Aprendendo Cloud Computing
+- ✏️ Estudante de Arquitetura de Software
 - 😄 Portfólio: https://portfolio-evelyn-bittelbrunn.netlify.app/
 
 ##
